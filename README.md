@@ -1,1 +1,1 @@
-# hascoding.github.io
+# HasCoding Open Source Platform
